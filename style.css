@@ -1,0 +1,31 @@
+html {
+overflow-y:scroll;
+height:100%;
+}
+
+body {
+background-color:#0f0f0f;
+height:100%;
+margin:0;
+}
+
+section {
+width: 33.3%;
+height: 33.3%;
+}
+
+.menu-left {
+float:left;
+width:33.3%;
+}
+
+.menu-center {
+display: inline-block;
+width:33.3%;
+}
+
+.menu-right {
+float:right;
+width:33.3%;
+text-align:right;
+}
