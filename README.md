@@ -5,3 +5,4 @@ A customisable multi trading grid connected with the Tradingview API for pair sc
 
 # CHANGELOG
 v1.0 - Cleaned code, you can now select pairs from the window itself. Presets loaded with energy assets.
+v0.5 - Basic functionalities.
